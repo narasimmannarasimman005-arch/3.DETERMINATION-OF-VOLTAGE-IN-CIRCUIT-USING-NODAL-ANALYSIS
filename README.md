@@ -21,6 +21,66 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 **Circuit diagram**
 
 
+
+
+
+<img width="826" height="458" alt="image" src="https://github.com/user-attachments/assets/9e64a563-b151-4a0c-9c50-aa08540a7d7e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**colculation**
+
+
+
+
+
+
+
+
+
+<img width="778" height="807" alt="image" src="https://github.com/user-attachments/assets/0e60e61d-47a6-4b52-a2b5-33d815f409ec" />
+
+<img width="673" height="821" alt="image" src="https://github.com/user-attachments/assets/490e925c-5f7b-458a-a796-ac53275442b6" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 **PROCEDURE:**
 
